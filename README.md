@@ -1,5 +1,4 @@
-# Responsive Portfolio Website Amar
-# Responsive Portfolio Website AMar
+# Responsive Portfolio Website Amar Sharma
 
 - Responsive Personal Portfolio Website Using HTML CSS & JavaScript
 - Smooth scrolling in each section.
